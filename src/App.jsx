@@ -9,7 +9,7 @@ function App() {
 
   return (
     <div>
-      <CountContext.Provider>
+      <CountContext.Provider value={count}>
         <Navbar ></Navbar>
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}

@@ -4,8 +4,8 @@ import SideNav from '../SideNav/SideNav'
 const Navbar = () => {
   return (
     <div>
-      <p>   Navbar :  </p>
       <SideNav></SideNav>
+      <p>   Navbar :  </p>
     </div>
   )
 }
