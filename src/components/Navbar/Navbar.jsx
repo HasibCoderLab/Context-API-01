@@ -1,8 +1,12 @@
 import React from 'react'
+import SideNav from '../SideNav/SideNav'
 
 const Navbar = () => {
   return (
-    <div>Navbar</div>
+    <div>
+      <p>   Navbar :  </p>
+      <SideNav></SideNav>
+    </div>
   )
 }
 
