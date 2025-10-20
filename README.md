@@ -1,6 +1,6 @@
 # Context-API-01
 
-![Overview](./src/assets/overview/overview.png)
+![overview](./src/assets/overview/overview.png)
 
 ---
 ## 📂 Project File Structure
