@@ -3,7 +3,7 @@ import { createContext, useState } from 'react'
 import './App.css'
 import Navbar from './components/Navbar/Navbar'
 
- export const CountContext = createContext();
+export const CountContext = createContext();
 function App() {
   const [count, setCount] = useState(0)
 
